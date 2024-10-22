@@ -27,8 +27,6 @@ I am a passionate Junior QA Engineer with a strong enthusiasm for technology and
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) 
-
-<!-- Nuevas Tecnologías -->
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![TestCafe](https://img.shields.io/badge/testcafe-%232671E5.svg?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-%2300A13E.svg?style=for-the-badge&logo=cucumber&logoColor=white)
