@@ -31,6 +31,7 @@ I am a passionate Junior QA Engineer with a strong enthusiasm for technology and
 ![SQL Manager](https://img.shields.io/badge/SQL_Manager-%23447.svg?style=for-the-badge&logo=data&logoColor=white)
 
 #### **Automation and Testing Tools**:
+![JMeter](https://img.shields.io/badge/jmeter-%23D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![TestCafe](https://img.shields.io/badge/testcafe-%232671E5.svg?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-%2300A13E.svg?style=for-the-badge&logo=cucumber&logoColor=white)
